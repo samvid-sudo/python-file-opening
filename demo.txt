@@ -1,0 +1,2 @@
+This was a perfect demo to open file using python 
+and to read also !!
